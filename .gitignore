@@ -1,0 +1,27 @@
+# Python 缓存
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# 测试报告和日志
+report/
+log/
+allure-results/
+allure-report/
+*.log
+
+# 环境变量（敏感信息）
+.env
+
+# 虚拟环境
+venv/
+.venv/
+env/
+
+# IDE 配置
+.idea/
+.vscode/
+
+# 系统文件
+.DS_Store
+Thumbs.db
